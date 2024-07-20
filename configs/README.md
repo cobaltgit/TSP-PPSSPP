@@ -1,5 +1,10 @@
 # PPSSPP Game Configs
 
+## Games that have been configured for dual-analog input
+
+* Coded Arms
+* Me & My Katamari
+
 ## Games that use Vulkan backend
 
 * Dante's Inferno
