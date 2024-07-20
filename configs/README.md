@@ -17,15 +17,19 @@ These games will need to be run using the Vulkan backend for best performance:
 * God of War: Chains of Olympus
 * Gran Turismo
 * OutRun 2006: Coast 2 Coast
+* Star Wars: The Force Unleashed
 * Tekken 6
 
 ## Games that use performance cheats
 
 These cheats must be enabled in PPSSPP manually to take effect:
 
-* Coded Arms
+- Coded Arms
     * 30 FPS
-* Dante's Inferno
+- Dante's Inferno
     * Force FPS To Run At 30 FPS
-* God of War: Chains of Olympus
+- God of War: Chains of Olympus
     * Fix FPS Issue + Force FPS To Run At 30 FPS
+- Star Wars: The Force Unleashed
+    * 30 FPS [Fixed] 
+        * Enabling this is optional, fixes slowdowns during cutscenes
