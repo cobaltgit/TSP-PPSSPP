@@ -26,4 +26,4 @@ These cheats must be enabled in PPSSPP manually to take effect:
 * Dante's Inferno
     * Force FPS To Run At 30 FPS
 * God of War: Chains of Olympus
-    * Force FPS To Run At 30 FPS
+    * Fix FPS Issue + Force FPS To Run At 30 FPS
