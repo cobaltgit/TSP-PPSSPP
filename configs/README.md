@@ -16,6 +16,7 @@ These games will need to be run using the Vulkan backend for best performance:
 * Dante's Inferno
 * God of War: Chains of Olympus
 * OutRun 2006: Coast 2 Coast
+* Tekken 6
 
 ## Games that use performance cheats
 
