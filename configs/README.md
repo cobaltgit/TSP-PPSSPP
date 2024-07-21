@@ -6,6 +6,8 @@ These games have been configured to make use of the TrimUI Smart Pro's right ana
 
 * Coded Arms
     * Right analog stick mapped to face buttons. Used for aiming
+* Jak and Daxter: The Lost Frontier
+    * Right analog stick mapped to L/R. Used to rotate the camera
 * Me & My Katamari
     * Right analog stick mapped to face buttons. Used to control katamari
 
