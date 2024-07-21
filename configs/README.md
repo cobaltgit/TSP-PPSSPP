@@ -10,6 +10,8 @@ These games have been configured to make use of the TrimUI Smart Pro's right ana
     * Right analog stick mapped to L/R. Used to rotate the camera
 * Me & My Katamari
     * Right analog stick mapped to face buttons. Used to control katamari
+* Ratchet & Clank: Size Matters
+    * Right analog stick mapped to L/R. Used to rotate the camera
 
 ## Games that use Vulkan backend
 
@@ -19,6 +21,7 @@ These games will need to be run using the Vulkan backend for best performance:
 * God of War: Chains of Olympus
 * Gran Turismo
 * OutRun 2006: Coast 2 Coast
+* Ratchet & Clank: Size Matters
 * Star Wars: The Force Unleashed
 * Tekken 6
 
