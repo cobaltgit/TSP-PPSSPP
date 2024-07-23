@@ -20,6 +20,7 @@ These games will need to be run using the Vulkan backend for best performance:
 * Dante's Inferno
 * God of War: Chains of Olympus
 * Gran Turismo
+* IL-2 Sturmovik: Birds of Prey
 * OutRun 2006: Coast 2 Coast
 * Ratchet & Clank: Size Matters
 * Star Wars: The Force Unleashed
