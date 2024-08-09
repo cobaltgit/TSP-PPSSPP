@@ -22,6 +22,7 @@ These games will need to be run using the Vulkan backend for best performance:
 * Gran Turismo
 * IL-2 Sturmovik: Birds of Prey
 * Jak and Daxter: The Lost Frontier
+* Midnight Club 3: DUB Edition
 * OutRun 2006: Coast 2 Coast
 * Ratchet & Clank: Size Matters
 * Star Wars: The Force Unleashed
